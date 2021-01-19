@@ -1,5 +1,11 @@
 # cs-ecommerce
 
+An ecommerce app built using vue
+
+#### Reference:
+
+https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
+
 ## Project setup
 ```
 npm install
