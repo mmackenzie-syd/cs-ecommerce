@@ -32,11 +32,6 @@ import { mapGetters } from 'vuex';
 
 export default {
   name: 'Base',
-  data: function() {
-    return {
-      user: {}
-    }
-  },
    computed: {
      ...mapGetters('account', ['user']),
      ...mapGetters('product', ['cart']),

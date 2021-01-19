@@ -3,15 +3,14 @@ import Vuex from 'vuex';
 import account from './account';
 import product from './product';
 
+console.log('vue', Vue)
+
 Vue.use(Vuex);
 
-export default function() {
-    const Store = new Vuex.Store({
+export default new Vuex.Store({
         modules: {
             account,
             product
         },
         strict: process.env.DEV
     });
-    return Store;
-}
