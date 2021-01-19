@@ -2,7 +2,7 @@
 
 An ecommerce app built using vue
 
-#### Reference:
+## Reference:
 
 https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
 
