@@ -1,6 +1,6 @@
 # cs-ecommerce
 
-An ecommerce app built using vue
+An ecommerce app built using Vue
 
 ## Reference:
 
