@@ -6,6 +6,8 @@ A small, VueJS Ecommerce App
 
 https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
 
+Styling with Bootsrap 4
+
 ## Project setup
 ```
 npm install
