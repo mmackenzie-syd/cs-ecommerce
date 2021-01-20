@@ -1,5 +1,7 @@
 # cs-ecommerce
 
+A small, VueJS Ecommerce App
+
 ## Reference
 
 https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
