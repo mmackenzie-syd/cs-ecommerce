@@ -15,7 +15,7 @@
 import { mapActions, mapGetters } from 'vuex';
 import ProductCard from "@/home/ProductCard";
 export default {
-  name: 'Home',
+  name: 'Products',
   components: { ProductCard },
   computed: {
     ...mapGetters('product', ['products'])
