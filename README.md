@@ -1,12 +1,12 @@
 # cs-ecommerce
 
-A small, VueJS Ecommerce App
+A small, Ecommerce App built with Vue 2, Vue-Router and Vuex state management.
+
+Styling with Bootsrap 4
 
 ## Reference
 
 https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
-
-Styling with Bootsrap 4
 
 ## Project setup
 ```
