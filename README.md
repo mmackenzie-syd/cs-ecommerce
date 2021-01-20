@@ -8,6 +8,8 @@ Styling with Bootsrap 4
 
 https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/
 
+(I simplified the router and layout)
+
 ## Project setup
 ```
 npm install
