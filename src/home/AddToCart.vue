@@ -60,12 +60,15 @@ export default {
   },
   watch: {
     product(val) {
+      console.log('product watch called')
       this.isInCardProp = this.isInCart(val.id);
     },
     cart() {
+      console.log('cart watch called')
       this.isInCardProp = this.isInCart(this.product.id);
     },
     quantity(val) {
+      console.log('quantity watch called')
       if (val <= 0) {
         this.quantity = 1;
       }
